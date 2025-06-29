@@ -1,0 +1,63 @@
+# Default ignored files
+.gradle/
+.idea/
+build/
+local.properties
+*.iml
+.DS_Store
+.externalNativeBuild/
+.cxx/
+captures/
+.metadata/
+
+# Local configuration file (sdk path, etc)
+local.properties
+
+# Gradle
+.gradle/
+build/
+
+# IDE (Android Studio, IntelliJ IDEA)
+.idea/workspace.xml
+.idea/libraries/
+.idea/caches/
+.idea/modules.xml # May or may not be needed, depending on setup
+.idea/gradle.xml # May or may not be needed, depending on setup
+.idea/tasks.xml # May or may not be needed, depending on setup
+*.iml
+*.ipr
+*.iws
+
+# Android specific
+*.apk
+*.ap_
+*.aab
+*.aar
+.project
+.classpath
+.settings
+.loadpath
+gen/
+bin/
+proguard/
+lint-results.html
+lint-results.xml
+crashlytics-build.properties
+crashlytics/
+.externalNativeBuild/
+.cxx/
+out/
+
+# Kotlin
+*.kotlin_module
+.kotlin/
+
+# NDK
+obj/
+libs/
+
+# Mac specific
+.DS_Store
+
+# Android Studio next-gen
+.navigation/
