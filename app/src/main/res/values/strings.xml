@@ -2,8 +2,8 @@
     <string name="app_name">PM1EXAMEN3122</string>
     <string-array name="paises_array">
         <item>Honduras (504)</item>
-        <item>Costa Rica</item>
+        <item>Costa Rica(506)</item>
         <item>Guatemala (502)</item>
-        <item>El Salvador</item>
+        <item>El Salvador (503)</item>
     </string-array>
 </resources>
